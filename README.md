@@ -16,8 +16,9 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 
 ## 📂 O que você vai encontrar
 
-- 📖 Exercícios das aulas 1 a 14
+- 📖 Exercícios das aulas 1 a 15
 - 🛠️ Projetos práticos como a Calculadora de Salário
+- 🎮 Sistemas completos: Cinema, Estacionamento e Semáforo
 - 📈 Mais conteúdo sendo adicionado toda semana
 
 ---
