@@ -1,5 +1,4 @@
 # 📚 Lógica de Programação — Curso em Vídeo (Gustavo Guanabara)
-
 ![VisuAlg](https://img.shields.io/badge/VisuAlg-3.0-blue)
 ![Portugol](https://img.shields.io/badge/Portugol-Iniciante-green)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
@@ -9,22 +8,20 @@ Aqui estão todos os meus exercícios e projetos do curso de Lógica de Programa
 ---
 
 ## 👤 Sobre mim
-
 Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou me dedicando aos estudos todos os dias para construir minha carreira como Engenheiro de Software. Esse repositório é a prova disso — cada arquivo aqui representa um dia de esforço real.
 
 ---
 
 ## 📂 O que você vai encontrar
-
 - 📖 Exercícios das aulas 1 a 15
-- 🛠️ Projetos práticos como a Calculadora de Salário
+- 🛠️ Projetos práticos: Calculadora de Salário e Controle de Notas
 - 🎮 Sistemas completos: Cinema, Estacionamento e Semáforo
+- 🎯 Projeto Jogo da Velha — com validação de posição e detecção de vitória
 - 📈 Mais conteúdo sendo adicionado toda semana
 
 ---
 
 ## 📊 Progresso no curso
-
 | Aula | Conteúdo | Status |
 |------|----------|--------|
 | 01 | Introdução e Primeiro Algoritmo | ✅ |
@@ -34,17 +31,19 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 | 05 | Estrutura Condicional SE | ✅ |
 | 06 | Estrutura Condicional SE e ESCOLHA | ✅ |
 | 07 | Estrutura de Repetição ENQUANTO | ✅ |
+| 08 | Estrutura de Repetição PARA | ✅ |
+| 09 | Estrutura de Repetição REPITA | ✅ |
 | 10 | Estruturas de Repetição 2 | ✅ |
 | 11 | Estruturas de Repetição 3 | ✅ |
 | 12 | Procedimentos | ✅ |
 | 13 | Funções | ✅ |
 | 14 | Vetores | ✅ |
-| 15 | Matrizes | 🔄 Em andamento |
+| 15 | Matrizes | ✅ |
+| 16 | Strings | 🔄 Em andamento |
 
 ---
 
 ## 🎯 Objetivo
-
 Mostrar minha evolução, construir meu diferencial no mercado de TI e conectar com pessoas que estão no mesmo caminho.
 
 ---
