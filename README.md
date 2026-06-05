@@ -1,7 +1,7 @@
 # 📚 Lógica de Programação — Curso em Vídeo (Gustavo Guanabara)
 ![VisuAlg](https://img.shields.io/badge/VisuAlg-3.0-blue)
-![Portugol](https://img.shields.io/badge/Portugol-Iniciante-green)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Portugol](https://img.shields.io/badge/Portugol-Intermediário-green)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Aqui estão todos os meus exercícios e projetos do curso de Lógica de Programação do Gustavo Guanabara, feitos no VisuAlg com Portugol.
 
@@ -13,11 +13,11 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 ---
 
 ## 📂 O que você vai encontrar
-- 📖 Exercícios das aulas 1 a 15
+- 📖 Exercícios das aulas 1 a 18
 - 🛠️ Projetos práticos: Calculadora de Salário e Controle de Notas
 - 🎮 Sistemas completos: Cinema, Estacionamento e Semáforo
-- 🎯 Projeto Jogo da Velha — com validação de posição e detecção de vitória
-- 📈 Mais conteúdo sendo adicionado toda semana
+- 🎯 Jogo da Velha — detecção de vitória em 8 condições, validação de posição
+- 📋 Agenda de Contatos — cadastro, busca, ordenação alfabética e menu completo
 
 ---
 
@@ -39,15 +39,24 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 | 13 | Funções | ✅ |
 | 14 | Vetores | ✅ |
 | 15 | Matrizes | ✅ |
-| 16 | Strings | 🔄 Em andamento |
+| 16 | Strings | ✅ |
+
+---
+
+## 🏆 Projetos
+| Projeto | Descrição | Status |
+|---------|-----------|--------|
+| Calculadora de Salário | Cálculo de INSS e imposto com funções | ✅ |
+| Controle de Notas | 5 alunos, médias, aprovados/reprovados | ✅ |
+| Jogo da Velha | Matriz 3x3, 8 condições de vitória, validação de jogada | ✅ |
+| Agenda de Contatos | Cadastro, busca por nome e letra, ordenação alfabética, menu completo | ✅ |
 
 ---
 
 ## 🎯 Objetivo
-Mostrar minha evolução, construir meu diferencial no mercado de TI e conectar com pessoas que estão no mesmo caminho.
+Construir uma base sólida em lógica de programação para avançar para linguagens como Python e Java, e me preparar para o concurso BB Agente de Tecnologia (CESGRANRIO).
 
 ---
 
 ## 📬 Contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rogerio%20Junior-blue?logo=linkedin)](https://www.linkedin.com/in/rogerio-junior-422607365)
