@@ -54,7 +54,7 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 ---
 
 ## 🎯 Objetivo
-Construir uma base sólida em lógica de programação para avançar para linguagens como Python e Java, e me preparar para o concurso BB Agente de Tecnologia (CESGRANRIO).
+Construir uma base sólida em lógica de programação para avançar para linguagens como Python e Java, e conquistar minha primeira oportunidade na área de TI.
 
 ---
 
