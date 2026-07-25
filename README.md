@@ -55,7 +55,7 @@ Meu nome é Rogerio, tenho uma rotina pesada de trabalho mas mesmo assim estou m
 
 ## 🎯 Objetivo
 
-Construir uma base sólida em lógica de programação para avançar em Python — já em andamento no repositório [contact-manager-python](LINK_AQUI) — e conquistar minha primeira oportunidade na área de TI.
+Construir uma base sólida em lógica de programação para avançar em Python — já em andamento no repositório — e conquistar minha primeira oportunidade na área de TI.
 
 ---
 
